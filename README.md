@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rubi</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" width="450" alt="coding" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubi-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="rubi-chauhan" /> </p>
 
 - 🌱 I’m currently learning **full stack development**
 
-- 👯 I’m looking to collaborate on **web development projects**
-
-- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express.js, React.js**
+- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express.js**
 
 - 📫 How to reach me **rubichauhan39@gmail.com**
 
