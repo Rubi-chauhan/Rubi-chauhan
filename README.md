@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubi-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="rubi-chauhan" /> </p>
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱  **MERN stack developer**
 
-- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express.js**
+- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express.js, React.js**
 
 - 📫 How to reach me **rubichauhan39@gmail.com**
 
