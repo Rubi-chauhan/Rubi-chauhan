@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubi-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="rubi-chauhan" /> </p>
 
 - 🌱  **Backend developer**
+  
+- 🌱  **Full Stack developer**
 
 - 💬 Ask me about **JavaScript, Node.js, MongoDB, Express.js, React.js**
 
